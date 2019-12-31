@@ -11,7 +11,7 @@ vue-cli3.0,基本配置。
 [详细配置](https://cli.vuejs.org/zh/config)
 # Cloning project（克隆项目）
 ```
-git clone https://github.com/luouguo/vue-vue-cli3.0.git
+git clone https://github.com/luouguo/vuecli3.0.git
 ```
 ## Project setup
 ```
