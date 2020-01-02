@@ -8,6 +8,13 @@ export default {
     key:'',
   },
   mutations: {
-
+    SET_TOKEN(state,token){
+        state.token=token
+    },
+    SET_LANGUAGE(state,lang){
+        state.language=lang
+    }
+  },
+  actions: {
   }
 }

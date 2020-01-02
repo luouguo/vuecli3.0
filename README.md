@@ -1,14 +1,18 @@
 # vue-cli3.0
 ```
-vue-cli3.0项目，基于ElementUI开发的Vue项目 使用组件包含axios～
+vue-cli3.0项目，基于ElementUI开发的Vue项目 使用axios请求～
 如果本项目对您有所帮助，请点一点小星星。另外祝您生活愉快！！！
 vue-cli3.0,基本配置。
 1.打包处理是去除.map文件
 2.修改打包文件名
 3.配置 axios
 4.配置 store
+5.配置加载环境和打包环境
+6.分包处理多个加载多js文件，防止js文件过大，首次加载过慢
+
 ```
-[详细配置](https://cli.vuejs.org/zh/config)
+[详细CONFIG配置请查看VUE_CLI官网](https://cli.vuejs.org/zh/config)
+
 # Cloning project（克隆项目）
 ```
 git clone https://github.com/luouguo/vuecli3.0.git
